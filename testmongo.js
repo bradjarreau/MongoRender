@@ -1,4 +1,6 @@
 const { MongoClient } = require("mongodb");
+const user = "temp";
+const password = "temp";
 
 // The uri string must be the connection string for the database (obtained on Atlas).
 const uri = "mongodb+srv://<username>:<password>@bjmdb.idurez2.mongodb.net/?retryWrites=true&w=majority&appName=bjmdb";
