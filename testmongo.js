@@ -3,7 +3,7 @@ const user = "temp";
 const password = "temp";
 
 // The uri string must be the connection string for the database (obtained on Atlas).
-const uri = "mongodb+srv://<username>:<password>@bjmdb.idurez2.mongodb.net/?retryWrites=true&w=majority&appName=bjmdb";
+const uri = "mongodb+srv://testUser:Genesis11@bjmdb.idurez2.mongodb.net/?retryWrites=true&w=majority&appName=bjmdb";
 
 // --- This is the standard stuff to get it to work on the browser
 const express = require('express');
